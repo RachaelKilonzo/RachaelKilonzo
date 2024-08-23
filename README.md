@@ -1,10 +1,12 @@
 ##  Rachael Kilonzo
+---
 
 **Aspiring Data Scientist & Code Learner**
 
 ### Academia
 - M.Sc. Stochastics & Data Science [Universita di Torino](https://www.unito.it/)
 - B.Sc Statistics [Egerton University](https://www.egerton.ac.ke/)
+---
 
 ### Languages and Tools
 <img align="left" alt="Java" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
