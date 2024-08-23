@@ -17,7 +17,6 @@
 <br />
 
 ### 
-
-### Learning
+Learning
 - QGIS
 - Machine Learning
