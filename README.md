@@ -1,5 +1,4 @@
 ##  Rachael Kilonzo
----
 
 **Aspiring Data Scientist & Code Learner**
 
@@ -19,7 +18,7 @@
 
 <br clear="left" />
 
-
+---
 ### Learning
 - QGIS
 - Machine Learning
