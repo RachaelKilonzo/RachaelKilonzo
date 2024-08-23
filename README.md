@@ -1,16 +1,14 @@
-## Hi there 👋
+##  Rachael Kilonzo
 
-<!--
-**RachaelKilonzo/RachaelKilonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Scientist & Code Learner**
 
-Here are some ideas to get you started:
+### Academia
+- M.Sc. Stochastics & Data Science [Universita di Torino](https://www.unito.it/)
+- B.Sc Statistics [Egerton University](https://www.egerton.ac.ke/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+
+###
+
+Learning: QGIS, Machine Learning
