@@ -1,6 +1,6 @@
 #  Rachael Kilonzo
 
-**Aspiring Data Scientist & Code Learner**
+**Junior Data Scientist & Code Learner**
 
 ---
 ### Academia
